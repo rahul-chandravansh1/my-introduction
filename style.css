@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: #f0f4f8; max-width: 700px; margin: 20px auto; padding: 20px; }
+header { background: #0b5394; color: white; text-align: center; padding: 15px; border-radius: 8px; }
+main, nav, footer { text-align: center; margin: 15px 0; }
+img { border-radius: 50%; border: 3px solid #0b5394; }
+h3 { color: #0b5394; margin-bottom: 5px; }
